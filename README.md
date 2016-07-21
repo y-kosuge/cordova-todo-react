@@ -1,6 +1,6 @@
 ## cordova-todo-react
 
-これのコピー:
+`www/`以下はこれのコピー:
 https://github.com/tastejs/todomvc/tree/master/examples/react
 
 ## usage
